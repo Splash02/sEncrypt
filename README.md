@@ -1,2 +1,2 @@
-# sEncrypt
-A simple way of encrypting files 
+#sEncrypt
+A suite of various file modification applications.
